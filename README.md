@@ -1,2 +1,2 @@
-# Machine-Learning
-This is a repository where I dump my machine learning projects.
+# Projects
+This is a repository where I dump all my projects from data analytics to marketing analytics and machine learning.
