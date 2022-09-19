@@ -1,3 +1,4 @@
 {
-    "cloudlatex.enabled": true
+    "cloudlatex.enabled": true,
+    "cloudlatex.projectId": 123
 }
